@@ -1,3 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# ML models / artifacts
+*.pkl
+*.joblib
+
+# Optuna
+optuna_study.db
+
+# OS
+.DS_Store
+Thumbs.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
